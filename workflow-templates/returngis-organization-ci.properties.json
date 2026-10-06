@@ -1,0 +1,11 @@
+{
+    "name": "MARKK Organization Workflow",
+    "description": "CI starter workflow.",
+    "iconName": "octicon heart-fill",
+    "categories": [
+        "C#"        
+    ],
+    "filePatterns":[
+        "*.csproj*"
+    ]
+}
